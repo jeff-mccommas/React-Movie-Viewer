@@ -76,7 +76,7 @@
   "version": "3.0.0",
   "description": "A Complete Intro to React workshop",
   "main": "server.js",
-  "repository": "git@github.com:btholt/complete-intro-to-react.git",
-  "author": "Brian Holt <btholt@gmail.com>",
+  "repository": "https://github.com/jeff-mccommas/React-Movie-Viewer.git",
+  "author": "jeff mccommas <bjeffmccommas@gmail.com>",
   "license": "MIT"
 }
